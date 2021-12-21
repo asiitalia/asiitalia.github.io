@@ -46,14 +46,15 @@
     "versionPublish": "5.5.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "qxp55wfvo2",
+    "favicon": "@PROJECT_PATH@/assets/images/5de0d995c737cbb4a73548f6c8101dbd-asii.gif",
+    "mbrsiteDomain": "vk4dlm8y6j",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
